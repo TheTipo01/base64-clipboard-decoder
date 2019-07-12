@@ -1,0 +1,4 @@
+0bb2a4354c33fc20395a7bb058740f3ee76fb83a5fd178490edfbd968e25347e  base64-clipboard-decoder_1.0_Darwin_x86_64.tar.gz
+39f096eb6504225cbc943b76c2c9af48e454d348c443bddbad35d7d8b3b6c98a  base64-clipboard-decoder_1.0_Darwin_i386.tar.gz
+1c72ab64d03be0686408a27cdb711e00291c45d3660a99db3bdbe725984b73bb  base64-clipboard-decoder_1.0_Linux_i386.tar.gz
+128c59c10085a2a72ddfaa195ef004ca3c7b38024728148efae39f341dbf67c9  base64-clipboard-decoder_1.0_Linux_x86_64.tar.gz
