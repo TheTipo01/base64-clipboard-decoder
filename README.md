@@ -1,5 +1,6 @@
 # base64-clipboard-decoder #
 [![Go Report Card](https://goreportcard.com/badge/github.com/TheTipo01/base64-clipboard-decoder)](https://goreportcard.com/report/github.com/TheTipo01/base64-clipboard-decoder)
+
 Little program for decoding and opening an url encoded in Base64
 
 # Usage
